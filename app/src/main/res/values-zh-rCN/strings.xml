@@ -136,4 +136,10 @@
     <string name="invalid_input">输入无效</string>
     <string name="sort_ascending">升序排序</string>
     <string name="sort_descending">降序排序</string>
+    <string name="terms_of_service">服务条款</string>
+    <string name="file_import_error">导入失败</string>
+    <string name="file_import_partial_error">导入某些文件失败</string>
+    <string name="file_import_success">成功导入</string>
+    <string name="file_import_title">导入</string>
+    <string name="file_import_description">Import other text files as notes</string>
 </resources>
